@@ -1,0 +1,13 @@
+{
+    "name": "devcore2508/my-casbin",
+    "description": "My Composer",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "authors": [
+       {
+           "name": "Alex Petrov",
+           "email": "a.petrov@knomary.com"
+       }
+    ],
+    "require": {}
+  }
